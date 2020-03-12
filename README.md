@@ -17,6 +17,9 @@ $ conda install -c plotly plotly=4.5.4
 ## Dataset
 You can download the dataset [here](https://www.kaggle.com/brunotly/foreign-exchange-rates-per-dollar-20002019/download)(2 MB).
 
+## Preview 
+<img style="-webkit-user-select: none;margin: auto;" src="https://thumbs.gfycat.com/PitifulMenacingCarp-size_restricted.gif">
+
 ## Contributing 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
